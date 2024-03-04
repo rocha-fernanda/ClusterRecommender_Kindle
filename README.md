@@ -1,4 +1,4 @@
-# Projeto Lusterização e Recomendação de Livros no Kindle 📚✨
+# Projeto Clusterização e Recomendação de Livros no Kindle 📚✨
 
 ## Desenvolvido por: Fernanda Paula Rocha
 
