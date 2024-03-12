@@ -4,7 +4,7 @@
 
 ### Introdução 🌟
 
-Bem-vindo(a) ao universo mágico da lusterização e recomendação de livros no Kindle! Este projeto mergulha na vastidão de dados da plataforma, explorando padrões e agrupando livros com base em atributos fascinantes. Prepare-se para descobrir novas dimensões de similaridade literária!
+Bem-vindo(a) ao universo mágico da clusterização e recomendação de livros no Kindle! Este projeto mergulha na vastidão de dados da plataforma, explorando padrões e agrupando livros com base em atributos fascinantes. Prepare-se para descobrir novas dimensões de similaridade literária!
 
 ### Objetivo 🚀
 
