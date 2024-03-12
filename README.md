@@ -8,7 +8,7 @@ Bem-vindo(a) ao universo mágico da clusterização e recomendação de livros n
 
 ### Objetivo 🚀
 
-Nosso propósito é realizar a lusterização de um conjunto de dados repleto de informações sobre os livros disponíveis no Kindle. Vamos explorar padrões, agrupar livros semelhantes e, ao final, criar um sistema de recomendação inovador. Nossa jornada incluirá critérios como avaliações médias, preços, seleções editoriais, popularidade no Goodreads, disponibilidade no Kindle Unlimited e status de best-sellers.
+Meu propósito é realizar a clusterização de um conjunto de dados repleto de informações sobre os livros disponíveis no Kindle. Vamos explorar padrões, agrupar livros semelhantes e, ao final, criar um sistema de recomendação inovador. Nossa jornada incluirá critérios como avaliações médias, preços, seleções editoriais, popularidade no Goodreads, disponibilidade no Kindle Unlimited e status de best-sellers.
 
 ### O que Esperar 📖💡
 
